@@ -1,0 +1,32 @@
+﻿  Block.cpp
+  BlockD.cpp
+  BlockI.cpp
+  BlockJ.cpp
+  BlockL.cpp
+  BlockO.cpp
+  BlockS.cpp
+  BlockT.cpp
+  BlockT2.cpp
+  BlockZ.cpp
+  Board.cpp
+  BlockManager.cpp
+  Button.cpp
+  Console.cpp
+Console.cpp(18): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  Game.cpp
+  GameManager.cpp
+  InGame.cpp
+  InputManager.cpp
+  Main.cpp
+  Screen.cpp
+  Compiling...
+  _Main.cpp
+  Observer.cpp
+  SceneManager.cpp
+  Shadow.cpp
+  Subject.cpp
+  Viewer.cpp
+  Generating code
+  All 215 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  C++Tetris.vcxproj -> C:\Users\박대연\Documents\GitHub\CPPTetris\Release\C++Tetris.exe

@@ -1,0 +1,308 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Manager">
+      <UniqueIdentifier>{6571a0cb-fae4-4d73-a198-35fcbf9c0da1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Manager\InputManager">
+      <UniqueIdentifier>{c13ad39f-dd65-464e-9320-9ab9376fb27d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Manager\BlockManager">
+      <UniqueIdentifier>{c9b91495-84db-4c66-8902-b7a5188ea66e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Manager\GameManager">
+      <UniqueIdentifier>{bdf3512a-0803-433d-90a8-7ca5064a03c0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Manager\SceneManager">
+      <UniqueIdentifier>{4164de42-93e6-44da-9946-8d26ac37e0d7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Manager\Console">
+      <UniqueIdentifier>{f44bcf87-1088-4246-a827-d6dbf0834503}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ㅍㅍ">
+      <UniqueIdentifier>{bb473b29-8dcb-413e-8c45-d0e5cd780f13}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ㅍㅍ\LinkedList">
+      <UniqueIdentifier>{0c1df9de-f721-4e58-8dde-fbba20cb4c94}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ㅍㅍ\Observer">
+      <UniqueIdentifier>{f14da027-d92d-4ec6-a731-93bbeb9c4364}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Scene">
+      <UniqueIdentifier>{4a1bd9fc-f9c2-4bbe-93c6-2c6244f95c03}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Scene\1.Standard">
+      <UniqueIdentifier>{eab32976-6e61-4242-af97-205b41c98109}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Scene\3.InGame">
+      <UniqueIdentifier>{c898a241-ba4c-43ac-b7ef-8a9b25522286}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Scene\2.Main">
+      <UniqueIdentifier>{a6b3a6d3-2a28-4858-95bd-a8abdad44478}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\0.Game">
+      <UniqueIdentifier>{e04bd9c5-0ff4-4bf9-a71e-f82bb5c8b702}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Scene\3.InGame\Block">
+      <UniqueIdentifier>{eaef477a-7ddb-400f-9c4e-f5031a588b40}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Scene\3.InGame\Block\Types">
+      <UniqueIdentifier>{3dad01c9-0ac8-4d19-a804-b75c9d24662f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Scene\3.InGame\Block\Types\BlockO">
+      <UniqueIdentifier>{a1fe6a08-1164-4207-b7a7-6de075b6c3b9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Scene\3.InGame\Block\Types\BlockT">
+      <UniqueIdentifier>{bb392196-1eb3-4fda-a020-cea5c7ba096b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Scene\3.InGame\Block\Types\BlockJ">
+      <UniqueIdentifier>{61d33573-8bf5-4651-a53c-65d6581c1d67}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Scene\3.InGame\Block\Types\BlockZ">
+      <UniqueIdentifier>{dad14415-360d-40d4-a5b1-b2a1cf3bc7aa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Scene\3.InGame\Block\Types\BlockI">
+      <UniqueIdentifier>{c413d067-482a-4cbf-b1f6-df08e485d56c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Scene\3.InGame\Block\Types\BlockS">
+      <UniqueIdentifier>{6e99e104-b105-4a2b-9eda-c34c31405cf0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Scene\3.InGame\Block\Types\BlockT2">
+      <UniqueIdentifier>{8cac3364-c52d-46f6-bcef-365854e7d849}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Scene\3.InGame\Block\Types\BlockD">
+      <UniqueIdentifier>{61259c2b-0119-470d-ba56-2d0bb02eea21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Scene\3.InGame\Block\Types\Shadow">
+      <UniqueIdentifier>{b5878132-be45-446d-a8f9-c31232311256}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Scene\3.InGame\Block\Base">
+      <UniqueIdentifier>{00d186c5-91ce-47fd-b328-83a805c825bd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Scene\3.InGame\Board">
+      <UniqueIdentifier>{fd21892d-6796-48e0-8819-f4fdab5621b2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Scene\2.Main\Screen">
+      <UniqueIdentifier>{5092ceaa-d4db-47f9-9b88-aee487f9964c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Scene\2.Main\Button">
+      <UniqueIdentifier>{378bf283-ddce-44f4-8ec2-414a8825c1a1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Scene\3.InGame\Block\Types\BlockL">
+      <UniqueIdentifier>{41ada515-2fc7-4a21-be85-35604183d7f0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Scene\3.InGame\Viewer">
+      <UniqueIdentifier>{b6961c57-ab9e-4dd8-a8e0-d78638a31d22}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Scene\3.InGame\Block\Types\Gravitation">
+      <UniqueIdentifier>{77ee530a-8074-4e43-b1e9-60aaaf1cd2f4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Scene\3.InGame\Block\Types\Pressure">
+      <UniqueIdentifier>{1ef94075-cf7c-489e-aeac-e65532337aca}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Board.h">
+      <Filter>Source Files\Scene\3.InGame\Board</Filter>
+    </ClInclude>
+    <ClInclude Include="Console.h">
+      <Filter>Source Files\Manager\Console</Filter>
+    </ClInclude>
+    <ClInclude Include="Viewer.h">
+      <Filter>Source Files\Scene\3.InGame\Viewer</Filter>
+    </ClInclude>
+    <ClInclude Include="Header.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BlockTypes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Shadow.h">
+      <Filter>Source Files\Scene\3.InGame\Block\Types\Shadow</Filter>
+    </ClInclude>
+    <ClInclude Include="BlockO.h">
+      <Filter>Source Files\Scene\3.InGame\Block\Types\BlockO</Filter>
+    </ClInclude>
+    <ClInclude Include="InputManager.h">
+      <Filter>Source Files\Manager\InputManager</Filter>
+    </ClInclude>
+    <ClInclude Include="Node.h">
+      <Filter>ㅍㅍ\LinkedList</Filter>
+    </ClInclude>
+    <ClInclude Include="LinkedList.h">
+      <Filter>ㅍㅍ\LinkedList</Filter>
+    </ClInclude>
+    <ClInclude Include="BlockManager.h">
+      <Filter>Source Files\Manager\BlockManager</Filter>
+    </ClInclude>
+    <ClInclude Include="BlockT.h">
+      <Filter>Source Files\Scene\3.InGame\Block\Types\BlockT</Filter>
+    </ClInclude>
+    <ClInclude Include="GameManager.h">
+      <Filter>Source Files\Manager\GameManager</Filter>
+    </ClInclude>
+    <ClInclude Include="BlockJ.h">
+      <Filter>Source Files\Scene\3.InGame\Block\Types\BlockJ</Filter>
+    </ClInclude>
+    <ClInclude Include="BlockI.h">
+      <Filter>Source Files\Scene\3.InGame\Block\Types\BlockI</Filter>
+    </ClInclude>
+    <ClInclude Include="BlockZ.h">
+      <Filter>Source Files\Scene\3.InGame\Block\Types\BlockZ</Filter>
+    </ClInclude>
+    <ClInclude Include="BlockS.h">
+      <Filter>Source Files\Scene\3.InGame\Block\Types\BlockS</Filter>
+    </ClInclude>
+    <ClInclude Include="BlockL.h">
+      <Filter>Source Files\Scene\3.InGame\Block\Types\BlockL</Filter>
+    </ClInclude>
+    <ClInclude Include="UserHeader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Managers.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BlockT2.h">
+      <Filter>Source Files\Scene\3.InGame\Block\Types\BlockT2</Filter>
+    </ClInclude>
+    <ClInclude Include="BlockD.h">
+      <Filter>Source Files\Scene\3.InGame\Block\Types\BlockD</Filter>
+    </ClInclude>
+    <ClInclude Include="Singleton.h">
+      <Filter>ㅍㅍ</Filter>
+    </ClInclude>
+    <ClInclude Include="Subject.h">
+      <Filter>ㅍㅍ\Observer</Filter>
+    </ClInclude>
+    <ClInclude Include="Observer.h">
+      <Filter>ㅍㅍ\Observer</Filter>
+    </ClInclude>
+    <ClInclude Include="Block.h">
+      <Filter>Source Files\Scene\3.InGame\Block\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneManager.h">
+      <Filter>Source Files\Manager\SceneManager</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene.h">
+      <Filter>Source Files\Scene\1.Standard</Filter>
+    </ClInclude>
+    <ClInclude Include="Main.h">
+      <Filter>Source Files\Scene\2.Main</Filter>
+    </ClInclude>
+    <ClInclude Include="InGame.h">
+      <Filter>Source Files\Scene\3.InGame</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>Source Files\0.Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Screen.h">
+      <Filter>Source Files\Scene\2.Main\Screen</Filter>
+    </ClInclude>
+    <ClInclude Include="Button.h">
+      <Filter>Source Files\Scene\2.Main\Button</Filter>
+    </ClInclude>
+    <ClInclude Include="GravitationBlock.h">
+      <Filter>Source Files\Scene\3.InGame\Block\Types\Gravitation</Filter>
+    </ClInclude>
+    <ClInclude Include="PressureBlock.h">
+      <Filter>Source Files\Scene\3.InGame\Block\Types\Pressure</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Board.cpp">
+      <Filter>Source Files\Scene\3.InGame\Board</Filter>
+    </ClCompile>
+    <ClCompile Include="Console.cpp">
+      <Filter>Source Files\Manager\Console</Filter>
+    </ClCompile>
+    <ClCompile Include="Viewer.cpp">
+      <Filter>Source Files\Scene\3.InGame\Viewer</Filter>
+    </ClCompile>
+    <ClCompile Include="Block.cpp">
+      <Filter>Source Files\Scene\3.InGame\Block\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="Shadow.cpp">
+      <Filter>Source Files\Scene\3.InGame\Block\Types\Shadow</Filter>
+    </ClCompile>
+    <ClCompile Include="BlockO.cpp">
+      <Filter>Source Files\Scene\3.InGame\Block\Types\BlockO</Filter>
+    </ClCompile>
+    <ClCompile Include="InputManager.cpp">
+      <Filter>Source Files\Manager\InputManager</Filter>
+    </ClCompile>
+    <ClCompile Include="BlockManager.cpp">
+      <Filter>Source Files\Manager\BlockManager</Filter>
+    </ClCompile>
+    <ClCompile Include="BlockT.cpp">
+      <Filter>Source Files\Scene\3.InGame\Block\Types\BlockT</Filter>
+    </ClCompile>
+    <ClCompile Include="GameManager.cpp">
+      <Filter>Source Files\Manager\GameManager</Filter>
+    </ClCompile>
+    <ClCompile Include="BlockJ.cpp">
+      <Filter>Source Files\Scene\3.InGame\Block\Types\BlockJ</Filter>
+    </ClCompile>
+    <ClCompile Include="BlockI.cpp">
+      <Filter>Source Files\Scene\3.InGame\Block\Types\BlockI</Filter>
+    </ClCompile>
+    <ClCompile Include="BlockZ.cpp">
+      <Filter>Source Files\Scene\3.InGame\Block\Types\BlockZ</Filter>
+    </ClCompile>
+    <ClCompile Include="BlockS.cpp">
+      <Filter>Source Files\Scene\3.InGame\Block\Types\BlockS</Filter>
+    </ClCompile>
+    <ClCompile Include="BlockL.cpp">
+      <Filter>Source Files\Scene\3.InGame\Block\Types\BlockL</Filter>
+    </ClCompile>
+    <ClCompile Include="BlockT2.cpp">
+      <Filter>Source Files\Scene\3.InGame\Block\Types\BlockT2</Filter>
+    </ClCompile>
+    <ClCompile Include="BlockD.cpp">
+      <Filter>Source Files\Scene\3.InGame\Block\Types\BlockD</Filter>
+    </ClCompile>
+    <ClCompile Include="Observer.cpp">
+      <Filter>ㅍㅍ\Observer</Filter>
+    </ClCompile>
+    <ClCompile Include="Subject.cpp">
+      <Filter>ㅍㅍ\Observer</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneManager.cpp">
+      <Filter>Source Files\Manager\SceneManager</Filter>
+    </ClCompile>
+    <ClCompile Include="_Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Main.cpp">
+      <Filter>Source Files\Scene\2.Main</Filter>
+    </ClCompile>
+    <ClCompile Include="InGame.cpp">
+      <Filter>Source Files\Scene\3.InGame</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Source Files\0.Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Screen.cpp">
+      <Filter>Source Files\Scene\2.Main\Screen</Filter>
+    </ClCompile>
+    <ClCompile Include="Button.cpp">
+      <Filter>Source Files\Scene\2.Main\Button</Filter>
+    </ClCompile>
+    <ClCompile Include="GravitationBlock.cpp">
+      <Filter>Source Files\Scene\3.InGame\Block\Types\Gravitation</Filter>
+    </ClCompile>
+    <ClCompile Include="PressureBlock.cpp">
+      <Filter>Source Files\Scene\3.InGame\Block\Types\Pressure</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram.cd" />
+  </ItemGroup>
+</Project>
